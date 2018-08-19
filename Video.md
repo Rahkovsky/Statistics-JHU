@@ -48,4 +48,12 @@
 
 
 # Lecture 10 Estimation MOM and MLE
-[Lecture 10a](https://jh.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=d99a326d-6bb5-4268-a89f-05df5586ca7d)
+[Lecture 10a Theory](https://jh.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=d99a326d-6bb5-4268-a89f-05df5586ca7d)
+[Lecture 10b Theory](https://jh.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=e9da2b19-cea9-4d2c-8a2c-e6ce8794bafa)
+[Lecture 10c Theory](https://jh.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=bc02382d-b397-44a7-9186-d91ecd744963)
+[Lecture 10d Practice](https://jh.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=465d8694-69da-4c2f-ab4e-eed4f8f8c1b1)
+
+# Lecture 11 ANOVA
+[Lecture 11a Theory](https://jh.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=e6fdf404-b26c-4721-95df-99232efdc716)
+[Lecture 11b Theory](https://jh.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=dfcc59fa-7f71-4825-b84b-d330aad83d29)
+[Lecture 11a Practice](https://jh.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=3d929160-eb63-4774-9628-4e8f3eda3d1c)
